@@ -17,7 +17,13 @@
 
 - 💬 Ask me about **java,javaScript, selenium, Cypress**
 
-- 📫 How to reach me **shashi.erravelly@kubra.com**
+- 📫 How to reach me 
+
+       • Email: shashi.erravelly@kubra.com (Prefered)
+
+       • MS Teams: shashi.erravelly@hearst.com
+
+       • Slack: @Shashi Erravelly
 
 - ⚡ Fun fact **I like watching office series**
 
